@@ -65,4 +65,17 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 National Center for High-performance Computing (NCHC) is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.nchc.org.tw/en/
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.nchc.org.tw/en/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/national-center-for-high-performance-computing-nchc/](https://apis.io/providers/national-center-for-high-performance-computing-nchc/).
